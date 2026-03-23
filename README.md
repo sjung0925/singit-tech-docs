@@ -41,6 +41,3 @@ FastAPI + React 기반 단일 구조로 통합하고,
 
 👉 [Recommendation Logic](./recommendation/logic.md)
 
----
-
-## 📂 Structure
